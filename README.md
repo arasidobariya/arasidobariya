@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arasidobariya
 - 👀 I’m interested in creating an interactive user interface
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js
 - 📫 you can reach me on www.linkedin.com/in/arasi-dobariya or via arasidobariya7@gmail.com
 
 <!---
